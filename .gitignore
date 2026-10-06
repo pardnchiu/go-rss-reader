@@ -1,3 +1,6 @@
 .DS_Store
 RSSReader
 rss.db
+
+.doc/
+wiki-worker/
